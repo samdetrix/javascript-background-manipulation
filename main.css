@@ -1,0 +1,18 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+}
+.btn{
+    background: burlywood;
+    color: black;
+    font-size: 24px;
+    outline: none;
+    border-radius: 7px;
+    text-transform: capitalize;
+}
+.btn:hover{
+    background: brown;
+}
